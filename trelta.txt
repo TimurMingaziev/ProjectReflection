@@ -1,0 +1,8 @@
+2016-06-09 11:16:07 INFO  logfile:24 - non reflection  Methods=  1349099
+2016-06-09 11:16:36 INFO  logfile:30 -  reflection Methods =  29499832002
+2016-06-09 11:16:40 INFO  logfile:36 - non reflection instance =  3520091211
+2016-06-09 11:16:43 INFO  logfile:42 - reflection instance =  3487562431
+2016-06-09 11:17:49 INFO  logfile:24 - non reflection  Methods=  327298333
+2016-06-09 11:17:49 INFO  logfile:30 -  reflection Methods =  340893324
+2016-06-09 11:17:49 INFO  logfile:36 - non reflection instance =  106046372
+2016-06-09 11:17:49 INFO  logfile:42 - reflection instance =  79514298
